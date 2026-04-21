@@ -1,0 +1,6 @@
+{
+  "name": "Fuzzy Washing Machine Controller",
+  "description": "A Mamdani-style fuzzy logic simulation to determine optimal washing machine cycle time based on dirt level and load size, inspired by the MATLAB Fuzzy Logic Toolbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
